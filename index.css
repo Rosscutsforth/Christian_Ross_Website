@@ -1,0 +1,12 @@
+﻿body {
+}
+
+.about_item{
+  text-decoration: none;
+  margin: 10px;
+  padding: 10px 10px;
+  color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
